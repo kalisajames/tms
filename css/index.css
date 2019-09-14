@@ -1,0 +1,27 @@
+.container{
+    padding-top: 20px;
+}
+body{
+    background-image: linear-gradient(to right,#581845 , #C70039); 
+}
+.nav-link{
+    font-size: 18px;
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.span{
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#mytabs{
+    margin-top: 20px;
+}
+#home{
+    color: #fff;
+}
+#menu1{
+    color: #fff;
+}
+#menu2{
+    color: #fff;
+}
